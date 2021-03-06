@@ -27,4 +27,4 @@ search_element = 45
 
 print(binary_search(list, 0, len(list), search_element))
 print(linear_search(list, search_element))
-# if element is present in the list then return index else return -1
+# if element is present in the list then return index of that element else return -1
